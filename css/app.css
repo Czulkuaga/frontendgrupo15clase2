@@ -1,0 +1,22 @@
+main{
+    display: flex;
+}
+.cuadro1{
+    width: 400px;
+    height: 400px;
+    background-color: blue;
+}
+
+#cuadro2{
+    width: 400px;
+    height: 400px;
+    background-color: blueviolet;
+}
+
+.cuadro1{
+    background-color: burlywood;
+}
+
+main #cuadro2{
+    background-color: cadetblue;
+}
